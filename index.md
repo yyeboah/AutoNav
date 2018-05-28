@@ -5,6 +5,9 @@ The vast majority of indoor navigation algorithms either rely on manual scene au
 Coming soon.
 
 ## Dataset
+The full dataset and accompnaying labels will be made available [here]: http://www.reddit.com soon
+
+### Sponsors
 Coming soon.
 
 ### Citation

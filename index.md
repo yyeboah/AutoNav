@@ -5,7 +5,7 @@ The vast majority of indoor navigation algorithms either rely on manual scene au
 Coming soon.
 
 ## Dataset
-The full dataset and accompnaying labels will be made available [Quora profile link for Adam D'Angelo](http://www.quora.com/Adam-DAngelo) soon
+The full dataset and accompnaying labels will be made available [here](https://drive.google.com/open?id=70BU) soon.The dataset is conventionally labelled for classficaiton and semantic segmenation tasks.
 
 ### Sponsors
 Coming soon.

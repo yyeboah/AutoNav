@@ -8,7 +8,7 @@ Coming soon.
 The full dataset and accompnaying labels will be made available [here](https://drive.google.com/open?id=70BU) soon.The dataset is conventionally labelled for classficaiton and semantic segmenation tasks.
 
 ## Code Implementation
-The source codes related to the project will be uploaded [here](https://github.com/yyeboah/AutoNav) soon. Implementation is achieved using the Keras high level API with TensorFlow as a backend. List of required dependences will be maintained on this page.
+The source codes related to the project will be uploaded [here](https://github.com/yyeboah/AutoNav) soon. Implementation is achieved using the Keras high level API with TensorFlow as a backend. A list of required dependences will be maintained on this page.
 
 ### Sponsors
 Coming soon.
